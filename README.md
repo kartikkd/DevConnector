@@ -3,4 +3,4 @@ This also includes registering and creating a profile and adding the experiences
 
 
 
-demo link - https://polar-gorge-05138.herokuapp.com/
+demo link for the project - https://polar-gorge-05138.herokuapp.com/
