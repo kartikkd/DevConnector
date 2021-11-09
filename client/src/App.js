@@ -16,7 +16,7 @@ import Profiles from './components/profiles/Profiles';
 import Posts from './components/posts/Posts';
 import Post from './components/post/Post';
 import Profile from './components/profile/Profile';
-//redux
+//redux part for the code
 import { Provider } from 'react-redux';
 import store from './store';
 import { loadUser } from './action/auth';
