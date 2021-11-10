@@ -3,4 +3,4 @@ This also includes registering and creating a profile and adding the experiences
 
 
 
-link for the project - https://polar-gorge-05138.herokuapp.com/
+link for the project DevConnector - https://polar-gorge-05138.herokuapp.com/
